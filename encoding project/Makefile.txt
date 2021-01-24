@@ -1,0 +1,2 @@
+a: encoderMain.c ansillary.c words.c
+	gcc encoderMain.c ansillary.c words.c -o a
